@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kiet Truong
-- 👀 I’m interested in iOS development
-- 🌱 I’m currently learning SwiftUI, Combine, MVVM,...
+- 👀 I’m interested in mobile development
 - 📫 How to reach me: https://www.linkedin.com/in/kiet-truong-10ba77187/
 
 <!---
